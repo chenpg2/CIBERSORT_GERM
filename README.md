@@ -1,4 +1,4 @@
-# Enhanced Cell Type Deconvolution Analysis Script
+# Germ Cell Type Deconvolution Analysis Script
 
 ## Overview
 
